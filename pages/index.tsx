@@ -61,7 +61,7 @@ export default function Home() {
     return (
         <>
             <Head>
-                <title>💬 send.cnrad.dev</title>
+                <title>💬 send.ensomg.net.tr</title>
             </Head>
 
             <Background src="/background.jpg" />
